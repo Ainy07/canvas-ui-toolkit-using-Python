@@ -30,11 +30,3 @@ A customizable Python dashboard application using Tkinter's Canvas widget. This 
 - No external libraries required (uses built-in modules)
 
 ---
-
-## ▶️ Run the App
-
-```bash
-python app.py
-
-
-
