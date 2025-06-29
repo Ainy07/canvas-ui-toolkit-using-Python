@@ -16,14 +16,6 @@ A customizable Python dashboard application using Tkinter's Canvas widget. This 
 - ⏰ Real-time clock display
 - 🔐 Logout functionality
 
----
-
-## 📸 Screenshots
-
-> *(Add screenshots here)*
-
----
-
 ## 🛠️ Tech Stack
 
 - **Language**: Python
